@@ -1,0 +1,7 @@
+FTP transfer log:
+=================
+14:52:03.54 PUT C:\Users\Max\Desktop\vulnerable-ftp\server\files\file.txt 
+14:56:31.62 PUT C:\Users\Max\Desktop\vulnerable-ftp\server\files\file.txt 
+15:03:12.34 PUT C:\Users\Max\Desktop\vulnerable-ftp\server\files\file.txt 
+15:05:24.16 PUT C:\Users\Max\Desktop\vulnerable-ftp\server\files\file.txt 
+15:16:37.86 PUT C:\Users\Max\Desktop\vulnerable-ftp\server\files\file.txt 

